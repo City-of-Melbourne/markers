@@ -1,0 +1,16 @@
+{
+  "marker1": {
+    "height": 354,
+    "pixelRatio": 2,
+    "width": 354,
+    "x": 0,
+    "y": 0
+  },
+  "marker2": {
+    "height": 354,
+    "pixelRatio": 2,
+    "width": 354,
+    "x": 354,
+    "y": 0
+  }
+}
